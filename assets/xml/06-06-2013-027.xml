@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<Customizacao>
+		<Header>
+			<url>http://localhost/boots/custom/receipt/27/computador1</url>
+			<acesso>computador1</acesso>
+			<data>06-06-2013</data>
+			<hora>16:56</hora>
+		</Header>
+		<Body>
+			<Tennis>
+				<Modelo>STRIDE</Modelo>
+				<Tamanho>42</Tamanho>
+				<Sexo>masculino</Sexo>
+				<Sku>800045520408</Sku>
+			</Tennis>
+			<Customizacoes>
+				<Customs>
+					<Custom item="COLARINHO">
+<Materia-prima>
+	<codigo>108.017.745</codigo>
+	<descricao>PLUMA NAPOLI GRAFITE/ESP.D20 3MM/JERSEY</descricao>
+</Materia-prima>
+<Componentes>
+	<componente item="FORRO-COLARINHO">
+	<numero>900</numero>
+	<descricao>FORRO COLAR 2X1</descricao>
+	</componente>
+	<componente item="FORRO-PALA">
+	<numero>910</numero>
+	<descricao>FORRO PALA 2X1</descricao>
+	</componente>
+</Componentes>
+					</Custom>
+					<Custom item="CABEDAL">
+<Materia-prima>
+	<codigo>136.208.488</codigo>
+	<descricao>SILK KIT 8022 GRAFITE/PRATA</descricao>
+</Materia-prima>
+<Componentes>
+	<componente>
+	<numero>5422</numero>
+	<descricao>KIT APLIC LAT FREQ</descricao>
+	</componente>
+</Componentes>
+					</Custom>
+					<Custom item="CADARCO">
+<Materia-prima>
+	<codigo>120.049.905</codigo>
+	<descricao>CADARCO KTH001 CINZA</descricao>
+</Materia-prima>
+<Componentes>
+	<componente>
+	<numero>1870</numero>
+	<descricao>CADARCO</descricao>
+	</componente>
+</Componentes>
+					</Custom>
+					<Custom item="SOLADO">
+<Materia-prima>
+	<codigo>251.023.118</codigo>
+	<descricao>SOLA 4 LIGHT 8020 BRANCO/CHUMBO</descricao>
+</Materia-prima>
+<Componentes>
+	<componente>
+	<numero>3591</numero>
+	<descricao>SOLA EVA PRONT 1*</descricao>
+	</componente>
+</Componentes>
+					</Custom>
+					<Custom item="NYLON">
+<Materia-prima>
+	<codigo>115.011.902</codigo>
+	<descricao>NYLON MESH FLAT PRETO/BIDIM 160</descricao>
+</Materia-prima>
+<Componentes>
+	<componente item="PALA">
+	<numero-descricao-1>920/PALA 2X1</numero-descricao-1>
+	<complemento item="PALA">
+	<numero-descricao>5011/COMP PALA COMP FREQ</numero-descricao>
+	</complemento>
+	</componente>
+	<componente item="NYLON-LATERAL">
+	<numero-descricao-1>5114/LAT COMP FREQ 4X1</numero-descricao-1>
+	</componente>
+	<componente item="ETIQUETA-PALA">
+	<codigo>137.050.372</codigo>
+	<descricao>ETIQ BOUTS BT - 1048 PRATA/PRETO</descricao>
+	<numero-componente>5522</numero-componente>
+	<descricao-componente>FREQ ETIQ PALA SILK</descricao-componente>
+	</componente>
+</Componentes>
+					</Custom>
+				</Customs>
+				<Combinatorios>
+<Combinatorio item="ETIQUETA">
+	<Materia-prima>
+	<codigo>137.050.372</codigo>
+	<descricao>ETIQ BOUTS BT - 1048 PRATA/PRETO</descricao>
+	</Materia-prima>
+	<Componentes>
+	<componente>
+	<numero>5522</numero>
+	<descricao>FREQ ETIQ PALA SILK</descricao>
+	</componente>
+	</Componentes>
+</Combinatorio>
+<Combinatorio item="PALMILHA">
+	<Materia-prima>
+	<codigo></codigo>
+	<descricao></descricao>
+	</Materia-prima>
+	<Componentes>
+	<componente>
+	<numero></numero>
+	<descricao></descricao>
+	</componente>
+	</Componentes>
+</Combinatorio>
+<Combinatorio item="TRASEIRO">
+	<Materia-prima>
+	<codigo></codigo>
+	<descricao></descricao>
+	</Materia-prima>
+	<Componentes>
+	<componente>
+	<numero></numero>
+	<descricao></descricao>
+	</componente>
+	</Componentes>
+</Combinatorio>
+<Combinatorio item="INSERTO">
+	<Materia-prima>
+	<codigo>904.181.963</codigo>
+	<descricao>INSERTO 8020 PRATA</descricao>
+	</Materia-prima>
+	<Componentes>
+	<componente>
+	<numero>3560</numero>
+	<descricao>INSERTO</descricao>
+	</componente>
+	</Componentes>
+</Combinatorio>
+<Combinatorio item="AMOTECEDOR">
+	<Materia-prima>
+	<codigo>904.182.963</codigo>
+	<descricao>AMORTECEDOR 8020 PRATA</descricao>
+	</Materia-prima>
+	<Componentes>
+	<componente>
+	<numero>3550</numero>
+	<descricao>AMORTECEDOR</descricao>
+	</componente>
+	</Componentes>
+</Combinatorio>
+				</Combinatorios>
+			</Customizacoes>
+		</Body>
+	</Customizacao>

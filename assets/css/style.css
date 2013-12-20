@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+#tenisRender{
+}
+#box_TopCustom{
+}
+#box_TopCustom #TopCustom_Tamanho{
+}
+#box_TopCustom #TopCustom_Sexo{
+}
+#box_BottomCustom{
+}
+#tenisRender1{
+	position:absolute;
+	z-index:2;
+}
+#tenisRender2{
+	position:absolute;
+	z-index:1;
+}

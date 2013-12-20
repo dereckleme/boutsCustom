@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<Customizacao>
+		<Header>
+			<url>http://localhost/boots/custom/receipt/51/computador1</url>
+			<acesso>computador1</acesso>
+			<data>24-06-2013</data>
+			<hora>14:21</hora>
+		</Header>
+		<Body>
+			<Tennis>
+				<Modelo>ORION</Modelo>
+				<Tamanho>34</Tamanho>
+				<Sexo>masculino</Sexo>
+				<Sku>810456000345</Sku>
+			</Tennis>
+			<Customizacoes>
+				<Customs>
+					<Custom item="COLARINHO">
+<Materia-prima>
+	<codigo>108.011.963</codigo>
+	<descricao>PLUMA LAOS 160/ESP D20 3MM/JERSEY PRATA</descricao>
+</Materia-prima>
+<Componentes>
+	<componente item="FORRO-COLARINHO">
+	<numero>900</numero>
+	<descricao>FORRO COLAR 2X1</descricao>
+	</componente>
+	<componente item="FORRO-PALA">
+	<numero>910</numero>
+	<descricao>FORRO PALA 2X1</descricao>
+	</componente>
+</Componentes>
+					</Custom>
+					<Custom item="CABEDAL">
+<Materia-prima>
+	<codigo>136.234.355</codigo>
+	<descricao>SILK KIT 7031 CINZA/PRETO</descricao>
+</Materia-prima>
+<Componentes>
+	<componente>
+	<numero>5080</numero>
+	<descricao>SILK KIT CAB FREQ</descricao>
+	</componente>
+</Componentes>
+					</Custom>
+					<Custom item="CADARCO">
+<Materia-prima>
+	<codigo>120.049.905</codigo>
+	<descricao>CADARCO KTH001 CINZA</descricao>
+</Materia-prima>
+<Componentes>
+	<componente>
+	<numero>1870</numero>
+	<descricao>CADARCO</descricao>
+	</componente>
+</Componentes>
+					</Custom>
+					<Custom item="SOLADO">
+<Materia-prima>
+	<codigo>251.044.60.22</codigo>
+	<descricao>SOLA ORION 7030 GELO/AMAR FLUOR/PTO</descricao>
+</Materia-prima>
+<Componentes>
+	<componente>
+	<numero>3585</numero>
+	<descricao>SOLA EVA PRONT</descricao>
+	</componente>
+</Componentes>
+					</Custom>
+					<Custom item="NYLON">
+<Materia-prima>
+	<codigo>106.015.963</codigo>
+	<descricao>NYLON QATAR PRATA</descricao>
+</Materia-prima>
+<Componentes>
+	<componente>
+	<numero-descricao-1>920/PALA 2X1
+5011/COMP PALA COMP FREQ
+222/CANO COMP 2X1</numero-descricao-1>
+	<numero-descricao-2></numero-descricao-2>
+	<numero-descricao-3></numero-descricao-3>
+	</componente>
+	<componente item="ETIQUETA-PALA">
+	<codigo>137.053.372</codigo>
+	<descricao>ETIQ BOUTS BT-1057 PRATA/PRETO</descricao>
+	<numero-componente>5522</numero-componente>
+	<descricao-componente>FREQ ETIQ PALA SILK</descricao-componente>
+	</componente>
+</Componentes>
+					</Custom>
+				</Customs>
+				<Combinatorios>
+<Combinatorio item="ETIQUETA">
+	<Materia-prima>
+	<codigo>137.053.372</codigo>
+	<descricao>ETIQ BOUTS BT-1057 PRATA/PRETO</descricao>
+	</Materia-prima>
+	<Componentes>
+	<componente>
+	<numero>5522</numero>
+	<descricao>FREQ ETIQ PALA SILK</descricao>
+	</componente>
+	</Componentes>
+</Combinatorio>
+<Combinatorio item="PALMILHA">
+	<Materia-prima>
+	<codigo>113.027.902</codigo>
+	<descricao>PALMILHA PLANA 5MM 7720 TEC FAV PRETO C/ SILK</descricao>
+	</Materia-prima>
+	<Componentes>
+	<componente>
+	<numero>3315</numero>
+	<descricao>PALM MOLD 7720</descricao>
+	</componente>
+	</Componentes>
+</Combinatorio>
+				</Combinatorios>
+			</Customizacoes>
+		</Body>
+	</Customizacao>
